@@ -1,7 +1,6 @@
 # Fake News Detection Project
 
 ![I-Newspaper2](https://github.com/Ayush5266/Fake_News_Detection/assets/94298488/3fe4d5d4-c27d-4885-8e80-f2f914fb14f9)
-])
 
 ## Overview
 
